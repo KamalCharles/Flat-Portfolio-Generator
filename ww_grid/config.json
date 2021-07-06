@@ -1,0 +1,18 @@
+{
+  "Required_fields": {
+    "Constructioncode": [
+      1000,
+      1001,
+      1002
+    ],
+    "Occupancycode": [
+      5000,
+      5001,
+      5100
+    ],
+    "Peril": [
+      "WTC"
+    ]
+  },
+  "Countrycode": "FR"
+}
