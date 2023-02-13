@@ -65,3 +65,6 @@ The script generates a new CSV file with the following columns:
     *GeogName1
     *GeogScheme1
 
+## License
+
+This project is licensed under the MIT License.
